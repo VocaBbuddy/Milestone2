@@ -21,20 +21,6 @@ The **Voca Buddy App** is a translator and communication tool designed to help s
 - **Conversation History**:  
     - View saved conversations displayed chronologically.  
     - Implemented **RecyclerView** for a clean, scrollable list of conversations with timestamps.  
-
-### Settings Screen  
-- **Language Customization**:  
-    - Change the app’s primary translation language.  
-    - Includes a **"Recent Languages"** section for quick selection.  
-- **Accessibility Features**:  
-    - Font customization (size adjustments).  
-    - Light and dark mode toggle for enhanced usability.  
-
-### Customization Screen  
-- **Personalized Experience**:  
-    - Toggle between **Light Mode** and **Dark Mode**.  
-    - Customize fonts and color schemes for better readability.  
-
 ---
 
 ## Planned Features (V2+)  
