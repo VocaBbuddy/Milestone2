@@ -72,11 +72,9 @@ The **Voca Buddy App** is a translator and communication tool designed to help s
 
 Here's a walkthrough of implemented user stories:  
 
-- <img src='assets/VocaBuddyWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
 
-GIF created with [CloudConvert](https://cloudconvert.com/)  
+---![milestone2](https://github.com/user-attachments/assets/d939265d-b70a-4815-aafc-061489b9ef04)
 
----
 
 ## Challenges  
 1. **Device Connection**:  
