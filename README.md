@@ -7,6 +7,8 @@ The **Voca Buddy App** is a translator and communication tool designed to help s
 
 ## Features Implemented (V1)  
 
+## App Screen
+
 ### Login Screen  
 - **User Authentication**:  
     - Simple login functionality with username and password fields.  
