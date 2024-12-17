@@ -48,12 +48,8 @@ The **Voca Buddy App** is a translator and communication tool designed to help s
 2. **Home Screen**:  
     - Type in a message → Displays translated text in real time.  
     - Option to connect the device for external display.  
-3. **Settings Screen**:  
-    - Change language preferences or accessibility settings.  
 4. **Past Conversations Screen**:  
     - View previously saved conversations.  
-5. **Customization Screen**:  
-    - Toggle between light/dark mode and adjust fonts.  
 
 ---
 
