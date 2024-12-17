@@ -4,6 +4,10 @@
 The **Voca Buddy App** is a translator and communication tool designed to help students overcome language barriers. It enables users to display real-time translated text, store conversation history, and customize app settings for accessibility. The app is ideal for multilingual classrooms and individuals needing effective communication tools.  
 
 ---
+## Project Dashboard
+
+![image](https://github.com/user-attachments/assets/8918021b-051c-4e9e-8505-abcbf664b5af)
+
 
 ## Features Implemented (V1)  
 
